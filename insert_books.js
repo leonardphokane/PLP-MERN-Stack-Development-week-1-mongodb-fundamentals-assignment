@@ -1,7 +1,8 @@
 const { MongoClient } = require("mongodb");
 
 const uri = "mongodb+srv://leonardphokane1:FbaskVn50B7Dw0T9@cluster0.s70hksp.mongodb.net/"; // Replace with actual connection string
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+const client = new MongoClient(uri); // No need for deprecated options
+
 
 async function run() {
     try {

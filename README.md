@@ -1,4 +1,4 @@
-# PLP Bookstore MongoDB Project
+[README.md](https://github.com/user-attachments/files/20727527/README.md)# PLP Bookstore MongoDB Project
 
 ## Overview
 
@@ -41,3 +41,41 @@ It includes inserting book documents, performing CRUD operations, advanced queri
    ```bash
    node insert_books.js
    ```
+To explain how to run the scripts, [Uploading # MongoDB Assignment
+
+## How to Run the Scripts
+1. Ensure MongoDB is running: `mongod`
+2. Navigate to the project folder.
+3. Run the book insertion script:
+   ```sh
+   node insert_books.js
+
+Save this file as `README.md`.
+
+---
+
+### **Step 4: Commit and Push to GitHub**
+Once all files are in the repository:
+1. Open a terminal in the repo folder and run:
+   ```sh
+   git add .
+   git commit -m "Final submission for MongoDB assignment"
+   git push origin main
+
+Save and close the file.
+
+---
+
+### **Step 5: Add a Screenshot of MongoDB Compass**
+1. Open **MongoDB Compass** and navigate to your `plp_bookstore` database.
+2. Take a screenshot of your collections.
+3. Save it inside the project folder (`plp-bookstore`) as `mongodb_books_Screenshot.png`.
+
+---
+
+### **Step 6: Prepare for GitHub Submission**
+1. **Add files to Git tracking**:
+   ```sh
+   git add .
+README.md…]()
+

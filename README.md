@@ -41,7 +41,7 @@ It includes inserting book documents, performing CRUD operations, advanced queri
    ```bash
    node insert_books.js
    ```
-To explain how to run the scripts, [Uploading # MongoDB Assignment
+
 
 ## How to Run the Scripts
 1. Ensure MongoDB is running: `mongod`

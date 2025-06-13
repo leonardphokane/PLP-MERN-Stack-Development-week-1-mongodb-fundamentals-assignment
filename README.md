@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/20727527/README.md)# PLP Bookstore MongoDB Project
+# PLP Bookstore MongoDB Project
 
 ## Overview
 
